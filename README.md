@@ -1,16 +1,18 @@
-## Hi there 👋
+# Taha Abbas Naqvi
 
-<!--
-**TahaNaqv/TahaNaqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack AI & Web3 Engineer based in Islamabad, Pakistan.
 
-Here are some ideas to get you started:
+## What I Build
+- 🔗 DeFi protocols & smart contracts (Solidity, Rust/Anchor)
+- 🤖 LLM-powered applications (GPT-4o, LangGraph, RAG)
+- 🌐 Full-stack SaaS (React, Next.js, NestJS, Python/FastAPI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+- **FRDM** — Wrapped-fiat stablecoin protocol on Polygon
+- **Aeroscraper** — Solana DeFi lending/borrowing protocol  
+- **Odds** — Web3 lottery platform on Base chain
+- **Zencore AI** — GPT-4o DeFi trading agent
+- **AliHelp** — LangGraph-powered WhatsApp AI SaaS
+
+📧 t.a.naqvi14@gmail.com
+🔗 linkedin.com/in/taha-a-naqvi
